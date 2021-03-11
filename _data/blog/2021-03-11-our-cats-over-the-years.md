@@ -11,8 +11,6 @@ Whiskey in boston (rag doll)
 
 ![whisky](/assets/whiskeycat.JPEG "Whiskey the rag doll cat")
 
-
-
 Monkey (burmese)
 
 ![monkey](/assets/monkey.jpg "Monkey")
@@ -24,3 +22,7 @@ Allegra (little miss naughty)
 Aretha
 
 ![](/assets/aretha2.png "Aretha")
+
+Gomez (maine coon)
+
+![](/assets/gomez.png "Gomez")
