@@ -3,6 +3,7 @@ template: BlogPost
 path: /zoopharma
 date: 2021-03-11T15:22:07.079Z
 title: Zoopharmacognosy
+thumbnail: /assets/arethatl.png
 ---
 ## Your feline self medicates
 
