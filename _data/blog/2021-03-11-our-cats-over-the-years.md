@@ -26,3 +26,7 @@ Aretha
 Gomez (maine coon)
 
 ![](/assets/gomez.png "Gomez")
+
+Artie the wonder dog ( non feline)
+
+![](/assets/artie.jpeg "Artie the wonder dog")
