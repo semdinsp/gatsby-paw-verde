@@ -30,3 +30,7 @@ Gomez (maine coon)
 Artie the wonder dog ( non feline)
 
 ![](/assets/artie.jpeg "Artie the wonder dog")
+
+Gizmo (Main coon two)
+
+![gizmo](/assets/gizmo.jpeg "Gizmo")
