@@ -19,10 +19,18 @@ Allegra (little miss naughty)
 
 ![](/assets/allegraeggs.JPG "Allegre the thief")
 
-Aretha
+Aretha (aka Nina)
 
 ![](/assets/aretha2.png "Aretha")
 
 Gomez (maine coon)
 
 ![](/assets/gomez.png "Gomez")
+
+Artie the wonder dog (non feline)
+
+![](/assets/artie.jpeg "Artie the wonder dog")
+
+Gizmo (Main coon two)
+
+![gizmo](/assets/gizmo.jpeg "Gizmo")
