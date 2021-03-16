@@ -55,7 +55,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Verde Paw plants for pets`,
+        name: `Verde Paw - organic plants for pets`,
         short_name: `Verde Paw`,
         start_url: `/`,
         background_color: `#fff`,
@@ -64,7 +64,7 @@ module.exports = {
         icon: "src/images/icon.png",
       },
     },
-    `gatsby-plugin-sass`, 
+    `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     'gatsby-plugin-dark-mode',
