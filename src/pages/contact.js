@@ -15,9 +15,9 @@ const ContactPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/catnip-lg.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Get in Touch</h1>
-          <p>Let help with sales at your pet store or make your cat happy &rarr;</p>
+          <p>Let us help with sales at your pet store or make your cat happy with a "paw plant" &rarr;</p>
         </div>
         <div>
           <form className="form-container" name="contact-verdepaw" data-netlify="true"  data-netlify-honeypot="bot-field" action="/success"  method="POST">
