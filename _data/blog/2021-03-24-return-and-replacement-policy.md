@@ -4,6 +4,7 @@ path: /refundpolicy
 date: 2021-03-24T11:25:10.587Z
 title: Return and Replacement Policy
 metaDescription: terms and conditions
+thumbnail: /assets/allegraeggs.JPG
 ---
 ## Returns/Replacements
 
