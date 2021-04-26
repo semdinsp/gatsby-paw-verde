@@ -14,6 +14,10 @@ We recommend as much light as possible but avoiding direct mid day sun.  The cat
 
 Please talk to your plants in a kindly voice.  :)
 
+Please click here to see our [catnip growing process](/images/Catnip_growing_process.pdf)
+
+
+
 ![catnip 3 months](/assets/catnipbush.JPG "catnip at 3 months in age")
 
 ## Wheatgrass Suggestions
