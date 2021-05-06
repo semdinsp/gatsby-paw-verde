@@ -31,6 +31,10 @@ Artie the wonder dog (non feline)
 
 ![](/assets/artie.jpeg "Artie the wonder dog")
 
+Ladies in Dirt
+
+![Two ladies in dirt](/assets/ladiesindirt.jpeg "Allegre and Aretha")
+
 Gizmo (Main coon two)
 
 ![gizmo](/assets/gizmo.jpeg "Gizmo")
