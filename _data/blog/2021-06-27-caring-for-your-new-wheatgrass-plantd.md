@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /plantcarewheat
+path: /plantcare-wheatgrass
 date: 2021-04-26T06:30:11.775Z
 title: Caring for your new wheatgrass plant
 metaDescription: suggestions for wheatgrass and catnip plants growing in singapore
