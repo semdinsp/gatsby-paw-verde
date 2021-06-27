@@ -12,6 +12,10 @@ Our experience shows that the wheat grass grows super easily.  The only challeng
 
 Our technique for wheat grass growing is as followings.  Grow the seeds (soaked overnight) in a smaller container in a round shape (generally on paper towel to retain moisture).  Replant this into the soil after the seeds are growing well.  This is primarily to make the plant attractive.
 
-Wheat grass plants generally dies after a month unless you aggressively manage the height.  If you don't trim it back the plant will grow brown after a week and then died after another week.
+Wheat grass plants generally dies after a month unless you aggressively manage the height.  If you don't trim  back the plant aggressively it will grow brown after a week and then likely die after another week.
+
+#### Benefits
+
+Wheatgrass generally aids in digestion for cats.  They eat it and sometime regurgitate it to get rid of hairballs.  Cats are normally smart enough to do the correct dosage but if your cat is eating too much just move the plant.
 
 ![black cat with grass](/assets/wheatg-blackcat.jpeg "Black cat nibbling on grass")
