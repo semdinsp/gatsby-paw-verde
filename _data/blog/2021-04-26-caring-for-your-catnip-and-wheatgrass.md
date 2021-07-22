@@ -16,8 +16,12 @@ Please talk to your plants in a kindly voice.  :)
 
 Please click here to see our [catnip growing process](/assets/Catnip_plant_growing.pdf)
 
+The photo below is one of our plants repotted in a larger pot and watered on a daily basis.
+
 #### Benefits
 
 Catnip provides a range of benefits to your pet like releasing endorphins and other natural 'high' benefits.  In addition, catnip can be mosquito control for your house or apartment as catnip has a natural mosquito repellant scent.  Cats sometimes roll in catnip for this reason.
+
+![large catnip plant](/assets/largecatnip.jpg "large catnip plants after four months")
 
 ![catnip 3 months](/assets/catnipbush.JPG "catnip at 3 months in age")
